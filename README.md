@@ -1,1 +1,6 @@
 ![alt text](/slides/slide_0.svg)
+![alt text](/slides/slide_1.svg)
+![alt text](/slides/slide_2.svg)
+![alt text](/slides/slide_3.svg)
+![alt text](/slides/slide_4.svg)
+![alt text](/slides/slide_5.svg)
